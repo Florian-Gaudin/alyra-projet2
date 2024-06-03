@@ -1,8 +1,6 @@
 # alyra-projet2
 
-Tests unitaires sur voting.sol
-
-Contenu du fichier de test :
+##Tests unitaires sur voting.sol
 
 Le fichier de test Voting.js vérifie le bon fonctionnement du contrat Voting dans différentes situations :
 
